@@ -29,6 +29,7 @@ Add a method called `getIndividualWordCount` which takes a string as its only pa
 
 Add a method called `getWordListWithCount` which returns a string showing each word, followed by the number of times that word occurred in the analyzed text. The String should be formatted so it is easy to distinguish one word and its quantity from the next (one word per line is recommended, but not required).
 
+See [this GitHub repository](https://github.com/DavidGinzberg/JavaExamples) (FileUtils.java) for an example of one way to read from text files in Java.
 
 **Text samples:**
 
