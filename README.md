@@ -32,6 +32,6 @@ Add a method called `getWordListWithCount` which returns a string showing each w
 
 **Text samples:**
 
-[Project Gutenberg eBooks](http://norvig.com/big.txt)
-[US Declaration of Independence](http://www.constitution.org/usdeclar.txt)
+[Project Gutenberg eBooks](http://norvig.com/big.txt)  
+[US Declaration of Independence](http://www.constitution.org/usdeclar.txt)  
 [IPoAC with QoS RFC](https://tools.ietf.org/rfc/rfc2549.txt)
